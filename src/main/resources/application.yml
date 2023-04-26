@@ -3,7 +3,3 @@ server:
 spring:
   profiles:
     active: cloud
-  cloud:
-    gcp:
-      sql:
-        enabled: false
